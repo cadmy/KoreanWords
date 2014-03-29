@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KoreanWords</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+	<string name="info_title">Info</string>
+	<string name="info_message">Вопросы, замечания и предложения отправляйте на cadmy@ya.ru</string>
+	<string name="ok">Ok</string>
+	
+</resources>
